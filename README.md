@@ -8,7 +8,7 @@ I'm a passionate website developer with experience in building modern web applic
 
 <p align="center">
   <img src="https://img.shields.io/badge/-black?style=flat-square&logo=html5&logoColor=orange&label=" alt="HTML" height="80"/>
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=java&logoColor=red&label=" alt="Java" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="80"/>
   <img src="https://img.shields.io/badge/-black?style=flat-square&logo=apache-netbeans-ide&logoColor=blue&label=" alt="NetBeans" height="80"/>
   <img src="https://img.shields.io/badge/-black?style=flat-square&logo=python&logoColor=yellow&label=" alt="Python" height="80"/>
   <img src="https://img.shields.io/badge/-black?style=flat-square&logo=dart&logoColor=blue&label=" alt="Dart" height="80"/>
