@@ -24,9 +24,17 @@ I'm a passionate website developer with experience in building modern web applic
 
 ### 📫 Connect with Me
 
-- LinkedIn: [Adrian Baihaqi](https://www.linkedin.com/in/adrianbaihaqi/)
-- Instagram: [adrian_portofolio](https://www.instagram.com/adrian_portofolio/))
-- Portfolio: [adrianbaihaqi.dev](https://krncw5936.github.io/porto2/))
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrianbaihaqi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
+  </a>
+  <a href="https://www.instagram.com/adrian_portofolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40">
+  </a>
+  <a href="https://krncw5936.github.io/porto2/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=web&logoColor=white" height="40">
+  </a>
+</p>
 
 ---
 
