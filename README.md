@@ -2,10 +2,13 @@
 
 ## 🌐 Website Developer
 
-I'm a passionate website developer with experience in building modern web applications. I enjoy working with various technologies and frameworks to create efficient and user-friendly web solutions. Below are some of the tools and technologies I frequently work with:
+<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
+  I'm a passionate website developer with experience in building modern web applications. I enjoy working with various technologies and frameworks to create efficient and user-friendly web solutions. Below are some of the tools and technologies I frequently work with:
+</div>
 
 ### 🚀 Technologies & Tools
 
+<div style="background-color: #fff5e6; padding: 20px; border-radius: 10px;">
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="80"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="80">
@@ -21,9 +24,11 @@ I'm a passionate website developer with experience in building modern web applic
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="80">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="80">
 </p>
+</div>
 
 ### 📫 Connect with Me
 
+<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px;">
 <p align="center">
   <a href="https://www.linkedin.com/in/adrianbaihaqi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
@@ -35,7 +40,10 @@ I'm a passionate website developer with experience in building modern web applic
     <img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=web&logoColor=white" height="40">
   </a>
 </p>
+</div>
 
 ---
 
+<div style="background-color: #f7f7f7; padding: 20px; border-radius: 10px;">
 "Building the future, one function at a time." 🌟
+</div>
