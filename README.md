@@ -16,6 +16,7 @@ I'm a passionate website developer with experience in building modern web applic
   <img src="https://img.shields.io/badge/-black?style=flat-square&logo=django&logoColor=green&label=" alt="Django" height="80"/>
   <img src="https://img.shields.io/badge/-black?style=flat-square&logo=laravel&logoColor=red&label=" alt="Laravel" height="80"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="80">
 </p>
 
 ### 📫 Connect with Me
