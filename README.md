@@ -7,16 +7,10 @@ I'm a passionate website developer with experience in building modern web applic
 ### 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=html5&logoColor=orange&label=" alt="HTML" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="80"/>
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=apache-netbeans-ide&logoColor=blue&label=" alt="NetBeans" height="80"/>
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=python&logoColor=yellow&label=" alt="Python" height="80"/>
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=dart&logoColor=blue&label=" alt="Dart" height="80"/>
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=flutter&logoColor=lightblue&label=" alt="Flutter" height="80"/>
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=django&logoColor=green&label=" alt="Django" height="80"/>
-  <img src="https://img.shields.io/badge/-black?style=flat-square&logo=laravel&logoColor=red&label=" alt="Laravel" height="80"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="80"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="80">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="80">
+  <img src="ttps://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="80">
 </p>
 
 ### 📫 Connect with Me
