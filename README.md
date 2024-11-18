@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Adrian Baihaqi
 
 ## 🌐 Website Developer
-## 👨‍💻 Software Engineer
 
 <div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
   I'm a passionate website developer with experience in building modern web applications. I enjoy working with various technologies and frameworks to create efficient and user-friendly web solutions. Below are some of the tools and technologies I frequently work with:
