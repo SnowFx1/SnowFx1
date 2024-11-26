@@ -30,7 +30,7 @@
 
 <div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px;">
   <p align="center">
-    <a href="[https://www.linkedin.com/in/adrianbaihaqi/](https://www.linkedin.com/in/adrian-baihaqi-069a71303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+    <a href="https://www.linkedin.com/in/adrian-baihaqi-069a71303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
     </a>
     <a href="https://www.instagram.com/adrian_portofolio/" target="_blank">
