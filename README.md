@@ -37,6 +37,6 @@
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/adrian-baihaqi-069a71303/"><img src="https://img.shields.io/badge/-Adrian%20Baihaqi-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
-<a href="mailto:adrianbaihaqi902@email.com"><img src="https://img.shields.io/badge/-adrian.baihaqi@email.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+<a href="mailto:adrianbaihaqi902@gmail.com"><img src="https://img.shields.io/badge/-adrianbaihaqi902@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 <a href="https://github.com/KRNCw5936/"><img src="https://img.shields.io/badge/-@adrianbaihaqi-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
