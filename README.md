@@ -1,49 +1,42 @@
-# Hi there! 👋 I'm Adrian Baihaqi
+ <p><img src=""></p>
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p>
+<h2>Hey there! I’m Adrian Baihaqi</h2>
 
-## 🌐 Backend Developer
+<h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
+<p>💡 &nbsp;I’m a website developer with a passion for backend development.<br>
+🎓 &nbsp;Currently specializing in Software and Game Development (PPLG) at SMK Taruna Bhakti Depok.<br>
+🌱 &nbsp;Exploring Express.js, Node.js, Laravel, GIN, and MySQL.<br>
+✍️ &nbsp;I enjoy working on projects involving backend architecture and API development.<br>
+💬 &nbsp;Feel free to reach out to discuss software development, backend optimization, or API design.<br>
+✉️ &nbsp;You can shoot me an email! I’ll try to respond as soon as I can.</p>
 
-<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
-  I'm a passionate Backend Developer with experience in building modern web applications. I enjoy working with various technologies and frameworks to create efficient and user-friendly web solutions. Below are some of the tools and technologies I frequently work with:
-</div>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 
-### 🚀 Technologies & Tools
+<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
+<p><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">&nbsp;
+<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" alt="Java">&nbsp;
+<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4" alt="PHP">&nbsp;
+<img src="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=00ADD8" alt="Golang">&nbsp;
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1" alt="SQL">&nbsp;
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"></p>
 
-<div style="background-color: #fff5e6; padding: 20px; border-radius: 10px;">
-  <p align="center">
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="80"/>
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="80">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="80">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="80">
-    <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="80">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="80">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="80">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="80">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="80">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="80">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="80">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="80">
-    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" height="80">
-  </p>
-</div>
+<h3 id="-tools">🔧 &nbsp;Tools</h3>
+<p><img src="https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=apache-netbeans-ide&logoColor=1B6AC6" alt="NetBeans">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VS Code">&nbsp;
+<img src="https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia&logoColor=5849BE" alt="Insomnia">&nbsp;
+<img src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D6" alt="Windows"></p>
 
-### 📫 Connect with Me
+<h3 id="-technologies">🚀 &nbsp;Technologies</h3>
+<p><img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express" alt="Express.js">&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">&nbsp;
+<img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20" alt="Laravel">&nbsp;
+<img src="https://img.shields.io/badge/-GIN-05122A?style=flat&logo=go&logoColor=00ADD8" alt="GIN">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL"></p>
 
-<div style="background-color: #e6f7ff; padding: 20px; border-radius: 10px;">
-  <p align="center">
-    <a href="https://www.linkedin.com/in/adrian-baihaqi-069a71303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
-    </a>
-    <a href="https://www.instagram.com/adrian_portofolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40">
-    </a>
-    <a href="https://krncw5936.github.io/porto2/" target="_blank">
-      <img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=web&logoColor=white" height="40">
-    </a>
-  </p>
-</div>
-
----
-
-<div style="background-color: #f7f7f7; padding: 20px; border-radius: 10px;">
-  "Building the future, one function at a time." 🌟
-</div>
+<h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+</p>
