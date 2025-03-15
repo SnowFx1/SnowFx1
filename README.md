@@ -9,9 +9,9 @@
 🌱 &nbsp;Currently, I am focusing on backend development using Laravel and SQL integration.<br>
 ✍️ &nbsp;In my free time, I enjoy experimenting with frontend technologies and mobile development.<br>
 💬 &nbsp;Feel free to reach out if you want to discuss or collaborate on exciting projects.<br>
-✉️ &nbsp;You can email me at <a href="mailto:adrian.baihaqi@email.com">adrian.baihaqi@email.com</a>. I will try to respond as soon as possible.<br>
+✉️ &nbsp;You can email me at <a href="mailto:adrianbaihaqi902@gmail.com">adrian.baihaqi@email.com</a>. I will try to respond as soon as possible.<br>
 </p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">&nbsp;
