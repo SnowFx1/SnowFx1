@@ -1,6 +1,6 @@
-# Hello, I'm Sigma 👋
+# Hello, I'm Adrian Baihaqi 👋
 
-### 💻 Full-Stack Web Developer
+### 💻 Website Developer
 
 I'm a passionate web developer who loves creating innovative digital solutions and exploring cutting-edge technologies. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
@@ -14,7 +14,7 @@ I'm a passionate web developer who loves creating innovative digital solutions a
 - 🌱 Currently mastering **backend development and SQL integration**
 - 👯 Looking to collaborate on **exciting web projects**
 - 💬 Ask me about **JavaScript, web development, or tech in general**
-- 📫 How to reach me: **cerdas@gmail.com**
+- 📫 How to reach me: **adrianbaihaqi53@gmail.com**
 - ⚡ Fun fact: I love experimenting with new frontend frameworks and mobile development
 
 ## 🛠️ Tech Stack
@@ -50,8 +50,8 @@ I'm a passionate web developer who loves creating innovative digital solutions a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KRNCw5936&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRNCw5936&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnowFx1&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowFx1&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ## 📫 Let's Connect!
