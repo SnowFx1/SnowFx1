@@ -90,8 +90,8 @@ I'm a passionate web developer who loves creating innovative digital solutions a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KRNCw5936&show_icons=true&theme=radical&hide_border=true&bg_color=87CEEB&title_color=000080&text_color=FFFFFF&icon_color=FFA500" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRNCw5936&layout=compact&theme=radical&hide_border=true&bg_color=000080&title_color=87CEEB&text_color=FFFFFF&icon_color=FFA500" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnowFx1&show_icons=true&theme=radical&hide_border=true&bg_color=87CEEB&title_color=000080&text_color=FFFFFF&icon_color=FFA500" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowFx1&layout=compact&theme=radical&hide_border=true&bg_color=000080&title_color=87CEEB&text_color=FFFFFF&icon_color=FFA500" />
 </p>
 
 </div>
@@ -104,7 +104,7 @@ I'm a passionate web developer who loves creating innovative digital solutions a
   <a href="https://www.linkedin.com/in/adrian-baihaqi-069a71303/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:adrianbaihaqi902@gmail.com">
+  <a href="mailto:adrianbaihaqi53@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/KRNCw5936/">
