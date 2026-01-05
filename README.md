@@ -14,7 +14,7 @@ I'm a passionate web developer who loves creating innovative digital solutions a
 - 🌱 Currently mastering **backend development and SQL integration**
 - 👯 Looking to collaborate on **exciting web projects**
 - 💬 Ask me about **JavaScript, web development, or tech in general**
-- 📫 How to reach me: **adrianbaihaqi902@gmail.com**
+- 📫 How to reach me: **adrianbaihaqi51@gmail.com**
 - ⚡ Fun fact: I love experimenting with new frontend frameworks and mobile development
 
 ## 🛠️ Tech Stack
