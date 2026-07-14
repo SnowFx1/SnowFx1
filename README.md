@@ -26,7 +26,7 @@
 Name:          Adrian Baihaqi
 Role:          Website Developer
 Focus:         Full-stack web applications
-Learning:      Backend development & SQL integration
+Learning:      Backend development
 Looking for:   Collaboration on exciting web projects
 Ask me about:  JavaScript, React, Web Development, Tech in general
 Contact:       adrianbaihaqi51@gmail.com
@@ -45,6 +45,9 @@ Fun fact:      Always experimenting with new frontend frameworks & mobile dev
 <tr>
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/><br><b>JavaScript</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/typescript-original.svg" width="55" height="55" alt="JavaScript"/><br><b>TypeScript</b>
 </td>
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/><br><b>Java</b>
