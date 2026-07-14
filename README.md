@@ -37,43 +37,98 @@ Fun fact:      Always experimenting with new frontend frameworks & mobile dev
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💬 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-1A1A2E?style=for-the-badge&logo=javascript&logoColor=F2C94C"/>
-  <img src="https://img.shields.io/badge/-Java-1A1A2E?style=for-the-badge&logo=openjdk&logoColor=FF7A59"/>
-  <img src="https://img.shields.io/badge/-PHP-1A1A2E?style=for-the-badge&logo=php&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/-Golang-1A1A2E?style=for-the-badge&logo=go&logoColor=2DD4BF"/>
-  <img src="https://img.shields.io/badge/-Python-1A1A2E?style=for-the-badge&logo=python&logoColor=6C3AF2"/>
-</p>
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/><br><b>JavaScript</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/><br><b>Java</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="PHP"/><br><b>PHP</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55" height="55" alt="Golang"/><br><b>Golang</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/><br><b>Python</b>
+</td>
+</tr>
+</table>
 
 ### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-1A1A2E?style=for-the-badge&logo=html5&logoColor=FF7A59"/>
-  <img src="https://img.shields.io/badge/-CSS3-1A1A2E?style=for-the-badge&logo=css3&logoColor=2DD4BF"/>
-  <img src="https://img.shields.io/badge/-React-1A1A2E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/-Vue.js-1A1A2E?style=for-the-badge&logo=vuedotjs&logoColor=A78BFA"/>
-</p>
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/><br><b>HTML5</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/><br><b>CSS3</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/><br><b>React</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55" height="55" alt="Vue.js"/><br><b>Vue.js</b>
+</td>
+</tr>
+</table>
 
 ### ⚙️ Backend Development
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-1A1A2E?style=for-the-badge&logo=nodedotjs&logoColor=2DD4BF"/>
-  <img src="https://img.shields.io/badge/-Express.js-1A1A2E?style=for-the-badge&logo=express&logoColor=F2C94C"/>
-  <img src="https://img.shields.io/badge/-Gin-1A1A2E?style=for-the-badge&logo=go&logoColor=C724B1"/>
-</p>
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/><br><b>Node.js</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express.js"/><br><b>Express.js</b>
+</td>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Gin-1A1A2E?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Gin"/><br><br><b>Gin</b>
+</td>
+</tr>
+</table>
 
 ### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-1A1A2E?style=for-the-badge&logo=mysql&logoColor=FF7A59"/>
-  <img src="https://img.shields.io/badge/-SQL-1A1A2E?style=for-the-badge&logo=databricks&logoColor=6C3AF2"/>
-</p>
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/><br><b>MySQL</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="55" height="55" alt="SQL"/><br><b>SQL</b>
+</td>
+</tr>
+</table>
 
 ### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/-VS%20Code-1A1A2E?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/-NetBeans-1A1A2E?style=for-the-badge&logo=apachenetbeanside&logoColor=2DD4BF"/>
-  <img src="https://img.shields.io/badge/-Insomnia-1A1A2E?style=for-the-badge&logo=insomnia&logoColor=C724B1"/>
-  <img src="https://img.shields.io/badge/-Windows-1A1A2E?style=for-the-badge&logo=windows11&logoColor=6C3AF2"/>
-</p>
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/><br><b>VS Code</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="55" height="55" alt="NetBeans"/><br><b>NetBeans</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="55" height="55" alt="Insomnia"/><br><b>Insomnia</b>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55" alt="Windows"/><br><b>Windows</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
