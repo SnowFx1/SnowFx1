@@ -78,12 +78,6 @@ Fun fact:      Always experimenting with new frontend frameworks & mobile dev
 <br>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnowFx1&show_icons=true&hide_border=true&bg_color=1A1A2E&title_color=C724B1&icon_color=2DD4BF&text_color=E5E5E5&ring_color=6C3AF2" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowFx1&layout=compact&hide_border=true&bg_color=1A1A2E&title_color=C724B1&text_color=E5E5E5&langs_count=8" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnowFx1&hide_border=true&background=1A1A2E&ring=6C3AF2&fire=FF7A59&currStreakLabel=2DD4BF&sideLabels=E5E5E5&currStreakNum=E5E5E5&sideNums=E5E5E5&dates=A78BFA" />
 </div>
