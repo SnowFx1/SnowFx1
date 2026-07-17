@@ -29,7 +29,7 @@ Focus:         Full-stack web applications
 Learning:      Backend development
 Looking for:   Collaboration on exciting web projects
 Ask me about:  JavaScript, React, Web Development, Tech in general
-Contact:       adrianbaihaqi51@gmail.com
+Contact:       adrianbaihaqi53@gmail.com
 Fun fact:      Always experimenting with new frontend frameworks & mobile dev
 ```
 
