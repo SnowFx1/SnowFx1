@@ -20,20 +20,41 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:6C3AF2,100:C724B1&height=2&section=header" width="100%"/>
+
 ## 🚀 About Me
 
-```yaml
-Name:          Adrian Baihaqi
-Role:          Website Developer
-Focus:         Full-stack web applications
-Learning:      Backend development
-Looking for:   Collaboration on exciting web projects
-Ask me about:  JavaScript, React, Web Development, Tech in general
-Contact:       adrianbaihaqi51@gmail.com
-Fun fact:      Always experimenting with new frontend frameworks & mobile dev
-```
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+Halo, saya **Adrian** 👋 seorang **Website Developer** yang fokus membangun aplikasi web *full-stack*, mulai dari antarmuka yang interaktif di sisi *frontend* hingga logika layanan di sisi *backend*.
+
+Saat ini saya sedang memperdalam **backend development** dan senang bereksperimen dengan berbagai *framework frontend* maupun pengembangan mobile.
+
+Saya selalu terbuka untuk **berkolaborasi** dalam proyek web yang menarik — jangan ragu untuk menyapa!
 
 <br>
+
+🔭 **Sedang fokus di:** Aplikasi web full-stack<br>
+🌱 **Sedang belajar:** Backend Development<br>
+🤝 **Terbuka untuk:** Kolaborasi proyek web<br>
+💬 **Tanya saya soal:** JavaScript, React, Web Dev, & Tech secara umum<br>
+📫 **Hubungi saya:** adrianbaihaqi51@gmail.com<br>
+⚡ **Fun fact:** Selalu mencoba frontend framework & mobile dev baru
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:C724B1,100:FF7A59&height=2&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -41,95 +62,50 @@ Fun fact:      Always experimenting with new frontend frameworks & mobile dev
 
 ### 💬 Programming Languages
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/><br><b>JavaScript</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript"/><br><b>TypeScript</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/><br><b>Java</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="PHP"/><br><b>PHP</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55" height="55" alt="Golang"/><br><b>Golang</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/><br><b>Python</b>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=js,ts,java,php,go,py&theme=dark" /><br>
+<img src="https://img.shields.io/badge/JavaScript-1A1A2E?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-1A1A2E?style=flat-square&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Java-1A1A2E?style=flat-square&logo=openjdk&logoColor=E76F00"/>
+<img src="https://img.shields.io/badge/PHP-1A1A2E?style=flat-square&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/Golang-1A1A2E?style=flat-square&logo=go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Python-1A1A2E?style=flat-square&logo=python&logoColor=3776AB"/>
+
+<br><br>
 
 ### 🎨 Frontend Development
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/><br><b>HTML5</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/><br><b>CSS3</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/><br><b>React</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55" height="55" alt="Vue.js"/><br><b>Vue.js</b>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,react,vue&theme=dark" /><br>
+<img src="https://img.shields.io/badge/HTML5-1A1A2E?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-1A1A2E?style=flat-square&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/React-1A1A2E?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vue.js-1A1A2E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
+
+<br><br>
 
 ### ⚙️ Backend Development
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/><br><b>Node.js</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express.js"/><br><b>Express.js</b>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/Gin-1A1A2E?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Gin"/><br><br><b>Gin</b>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=nodejs,express,go&theme=dark" /><br>
+<img src="https://img.shields.io/badge/Node.js-1A1A2E?style=flat-square&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express.js-1A1A2E?style=flat-square&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Gin-1A1A2E?style=flat-square&logo=go&logoColor=00ADD8"/>
+
+<br><br>
 
 ### 🗄️ Databases
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/><br><b>MySQL</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="55" height="55" alt="SQL"/><br><b>SQL</b>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" /><br>
+<img src="https://img.shields.io/badge/MySQL-1A1A2E?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/SQL-1A1A2E?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/>
+
+<br><br>
 
 ### 🧰 Tools & Platforms
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/><br><b>VS Code</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="55" height="55" alt="NetBeans"/><br><b>NetBeans</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="55" height="55" alt="Insomnia"/><br><b>Insomnia</b>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55" alt="Windows"/><br><b>Windows</b>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=vscode,windows&theme=dark" /><br>
+<img src="https://img.shields.io/badge/VS%20Code-1A1A2E?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/NetBeans-1A1A2E?style=flat-square&logo=apache-netbeans-ide&logoColor=1B6AC6"/>
+<img src="https://img.shields.io/badge/Insomnia-1A1A2E?style=flat-square&logo=insomnia&logoColor=5849BE"/>
+<img src="https://img.shields.io/badge/Windows-1A1A2E?style=flat-square&logo=windows&logoColor=0078D6"/>
 
 </div>
 
